@@ -9,6 +9,7 @@ function hapusArray(arrayBuah, arrayHewan) {
   const arrayBuahBaru = []; //membuat Array baru
 
   //tempat coding disini
+  //asdf0098
 
   return arrayBuahBaru;
 }
